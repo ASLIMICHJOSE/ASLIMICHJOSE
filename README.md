@@ -1,44 +1,94 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋, I'm Asli Mich Jose</h1>
+<h3 align="center">✨ Frontend Web Developer | UI/UX Enthusiast | Creative Learner</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=F777BB&center=true&vCenter=true&width=440&lines=Building+beautiful+web+experiences;Turning+designs+into+live+websites;Learning+something+new+every+day!" alt="Typing SVG" />
+</p>
 
-<p align="left">My name is Asli Mich Jose and I'm a web development intern, from kanyakumari</p>
+---
 
-###
+### 👩‍💻 **About Me**
 
-<h2 align="left">About me</h2>
+🌸 Passionate about creating **responsive, interactive, and visually appealing** web interfaces.  
+🎓 Pursuing **B.E. in Computer Science Engineering** from Tamil Nadu.  
+💼 Currently a **Web Development Intern** — exploring modern UI frameworks.  
+🎯 Goal: To become a **creative and skilled Frontend Developer**.  
+💬 Ask me about **React, Tailwind CSS, and Web Design Principles**.  
+🎵 Fun fact: I design better with music on 🎧  
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning BE in computer science engineering<br>🎯 Goals: To become an inevitable web developer<br>🎲 Fun fact: ...</p>
+### 🛠️ **Tech Stack**
 
-###
+<div align="center">
 
-<h2 align="left">I code with</h2>
+#### 🎨 Frontend Tools I Love
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"/>
 
-###
+#### 🧩 Tools & Platforms
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo"/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASLIMICHJOSE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ASLIMICHJOSE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+#### 🔍 Currently Exploring
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"/>
+
 </div>
 
-###
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+---
+
+### 📊 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ASLIMICHJOSE&show_icons=true&theme=rose_pine&hide_border=false&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASLIMICHJOSE&theme=rose_pine&hide_border=false" height="160" alt="streak graph" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASLIMICHJOSE&layout=compact&theme=rose_pine&hide_border=false" height="160" alt="languages graph" />
+</div>
+
+---
+
+### 🌍 **Connect With Me**
+
+<div align="center">
+  <a href="https://linkedin.com/in/aslimichjose" target="www.linkedin.com/in/
+asli-mich-jose-844916296
+">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:aslimich22@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://github.com/ASLIMICHJOSE" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  </a>
+  <a href="https://portfolio-aslimichjose.vercel.app/" target="https://aslimichjose.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF69B4.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="portfolio badge"/>
+  </a>
+</div>
+
+---
+
+### ✨ **Highlights**
+- 💻 Designed and developed **responsive, modern UI layouts** with React and Tailwind.  
+- 🎨 Passionate about **user-focused design** and accessibility.  
+- 🧠 Constantly improving my skills in **component design and reusability**.  
+- 🚀 Learning **TypeScript & animation libraries** to create smoother web experiences.  
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ASLIMICHJOSE&theme=rose_pine&no-frame=false&margin-w=4" alt="trophy" />
+</p>
+
 
