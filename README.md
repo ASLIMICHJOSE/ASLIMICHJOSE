@@ -1,99 +1,187 @@
-<h1 align="center">Hey 👋, I'm Asli Mich Jose</h1>
-<h3 align="center">💠 Frontend Web Developer | UI/UX Enthusiast | Creative Learner</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Building+modern+web+interfaces;Turning+designs+into+code;Learning+and+improving+every+day" alt="Typing SVG" />
-</p>
+```
+ ▄████████    ▄████████  ▄█        ▄█
+███    ███   ███    ███ ███       ███
+███    ███   ███    █▀  ███       ███
+███    ███   ███        ███       ███
+▀███████████ ███        ███       ███
+         ███ ███    █▄  ███       ███
+   ▄█    ███ ███    ███ ███▌    ▄ ███▌    ▄
+ ▄████████▀  ████████▀  █████▄▄██ █████▄▄██
+```
 
----
-
-### 👨‍💻 About Me
-
-🧠 Passionate about building **responsive, interactive, and clean UI interfaces**  
-🎓 Pursuing **B.E. in Computer Science Engineering** from India  
-💼 Web Development Intern exploring modern frontend frameworks  
-🎯 Goal: Become a **skilled and creative Frontend Developer**  
-💬 Ask me about **React, Tailwind CSS, UI/UX principles**  
-🎧 Fun fact: I write better code with music on  
-
----
-
-### 🛠️ Tech Stack
+</div>
 
 <div align="center">
 
-#### 🎨 Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+### `> ASLI MICH JOSE J`
+#### Front-End Developer · Computer Vision Engineer · CS Undergrad
 
-#### 🧩 Tools & Platforms
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+the+web%2C+one+component+at+a+time...;Training+AI+to+see+the+world+in+real-time...)](https://git.io/typing-svg)
 
-#### 🔍 Currently Exploring
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40"/>
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://aslimichjose.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/◈_CONTACT-000000?style=for-the-badge&logo=protonmail&logoColor=00FF41)](mailto:aslimich22@gmail.com)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+```bash
+$ whoami
+```
+
+```yaml
+identity   : Asli Mich Jose J
+role       : Front-End Developer Intern @ Iniram Square Pvt. Ltd.
+education  : B.E. Computer Science — Stella Mary's College of Engineering [2023–2027]
+location   : Tamil Nadu, India
+status     : [ACTIVE] — Building · Shipping · Growing
+
+focus:
+  - Crafting responsive, scalable UI with React & Tailwind CSS
+  - Real-time AI/CV systems using OpenCV & YOLOv8
+  - Admin dashboards & AI-powered business applications
+```
+
+---
+
+```bash
+$ cat tech_stack.json
+```
+
+**`// FRONT-END`**
+```
+HTML · CSS · JavaScript · React · Tailwind CSS · Responsive Design · API Integration
+```
+
+**`// AI & COMPUTER VISION`**
+```
+Python · OpenCV · YOLOv8 · TensorFlow · Object Detection · Distance Measurement
+```
+
+**`// TOOLS & ECOSYSTEM`**
+```
+Git · GitHub Pages · Java · React Native · Flutter/Dart
+```
+
+---
+
+```bash
+$ ls -la projects/
+```
+
+<table>
+<tr>
+<td width="50%">
+
+### `[01]` AI Object Detection & Distance Measurement
+```
+STACK  → Python · OpenCV · YOLOv8
+TYPE   → Computer Vision / AI
+STATUS → Completed
+```
+Real-time object detection with live distance measurement between camera and target. Built using YOLOv8 and OpenCV with optimized inference pipeline.
+
+</td>
+<td width="50%">
+
+### `[02]` Zyraa — Fashion E-Commerce
+```
+STACK  → React · Tailwind CSS
+TYPE   → Full Front-End
+STATUS → In Development
+```
+Modern fashion platform with a pixel-perfect responsive UI. Clean component architecture with a focus on aesthetics and performance.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### `[03]` AI Career Guidance System
+```
+STACK  → JavaScript · TensorFlow
+TYPE   → AI-Powered Web App
+STATUS → Completed
+```
+Intelligent career advisor with skill-gap analysis, personalized learning paths, and AI-driven job recommendations for students.
+
+</td>
+<td width="50%">
+
+### `[04]` Portfolio — Personal Site
+```
+STACK  → HTML · CSS · JS
+TYPE   → Personal Branding
+STATUS → Live on GitHub Pages
+```
+Personal portfolio showcasing projects, skills, and contact. Deployed and live at [aslimichjose.github.io](https://aslimichjose.github.io/portfolio/)
+
+</td>
+</tr>
+</table>
+
+---
+
+```bash
+$ cat experience.log
+```
+
+```
+[July 2025 → Present]  FRONT-END DEVELOPER INTERN
+                       Iniram Square Pvt. Ltd.
+
+  ✓ Building responsive admin dashboards & AI-powered business apps
+  ✓ Designing modern interfaces with React + Tailwind CSS
+  ✓ Collaborating cross-functionally to test & ship features
+```
+
+---
+
+```bash
+$ cat certifications.txt
+```
+
+```
+[✓] FreeCodeCamp     — Front-End Development
+[✓] Full-Stack Dev   — Certification Completed
+[✓] Leadership       — Student Leadership Program
+```
+
+---
+
+```bash
+$ git log --oneline --graph
+```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASLIMICHJOSE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASLIMICHJOSE&theme=tokyonight&hide_border=true" height="160"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aslimichjose&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aslimichjose&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aslimichjose&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+
 </div>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASLIMICHJOSE&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+```
+> "I don't just write code. I architect experiences."
+```
+
+```bash
+$ ping aslimichjose
+PING aslimichjose: 56 bytes of data
+64 bytes: response_time=instant  status=OPEN_TO_OPPORTUNITIES
+```
+
+[![Portfolio](https://img.shields.io/badge/◈_VIEW_PORTFOLIO-0d1117?style=for-the-badge&logoColor=00FF41&logo=github)](https://aslimichjose.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/◈_SEND_MESSAGE-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:aslimich22@gmail.com)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aslimichjose.aslimichjose&color=00FF41)
+
 </div>
-
----
-
-### 🕹️ Pac-Man eating my GitHub contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ASLIMICHJOSE/ASLIMICHJOSE/output/pacman-contribution-graph.svg" alt="Pacman contribution graph"/>
-</p>
-
----
-
-### 🌍 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/asli-mich-jose-844916296/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="mailto:aslimich22@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-  <a href="https://github.com/ASLIMICHJOSE">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-  <a href="https://portfolio-aslimichjose.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" height="30"/>
-  </a>
-</div>
-
----
-
-### ✨ Highlights
-
-- 💻 Developed **modern, responsive UI layouts** using React & Tailwind  
-- 🎨 Focused on **user experience, accessibility, and clean design**  
-- 🧠 Improving skills in **component reusability & UI architecture**  
-- 🚀 Exploring **TypeScript and UI animations**
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASLIMICHJOSE&theme=algolia&no-frame=true&margin-w=6"/>
-</p>
