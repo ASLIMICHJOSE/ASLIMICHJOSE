@@ -116,7 +116,7 @@ STACK  → HTML · CSS · JS
 TYPE   → Personal Branding
 STATUS → Live on GitHub Pages
 ```
-Personal portfolio showcasing projects, skills, and contact. Deployed and live at [aslimichjose.github.io](https://aslimichjose.github.io/portfolio/)
+Personal portfolio showcasing projects, skills, and contact. Deployed and live at [aslimichjose.github.io](https://aslimichjose.github.io/Portfolio-v2/)
 
 </td>
 </tr>
@@ -179,7 +179,7 @@ PING aslimichjose: 56 bytes of data
 64 bytes: response_time=instant  status=OPEN_TO_OPPORTUNITIES
 ```
 
-[![Portfolio](https://img.shields.io/badge/◈_VIEW_PORTFOLIO-0d1117?style=for-the-badge&logoColor=00FF41&logo=github)](https://aslimichjose.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/◈_VIEW_PORTFOLIO-0d1117?style=for-the-badge&logoColor=00FF41&logo=github)](https://aslimichjose.github.io/Portfolio-v2/)
 [![Email](https://img.shields.io/badge/◈_SEND_MESSAGE-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:aslimich22@gmail.com)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aslimichjose.aslimichjose&color=00FF41)
