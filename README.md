@@ -20,7 +20,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+the+web%2C+one+component+at+a+time...;Training+AI+to+see+the+world+in+real-time...)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://aslimichjose.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://aslimichjose.github.io/Portfolio-v2/)
 [![Email](https://img.shields.io/badge/◈_CONTACT-000000?style=for-the-badge&logo=protonmail&logoColor=00FF41)](mailto:aslimich22@gmail.com)
 
 </div>
