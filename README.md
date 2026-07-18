@@ -22,7 +22,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=00FF41)](https://aslimichjose.github.io/Portfolio-v2/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge\&logo=gmail\&logoColor=00FF41)](mailto:aslimich22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=00FF41)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=00FF41)](www.linkedin.com/in/asli-mich-jose-844916296)
 
 </div>
 
@@ -158,7 +158,7 @@ OpenCV             █████████████████░░░�
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="www.linkedin.com/in/asli-mich-jose-844916296">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
